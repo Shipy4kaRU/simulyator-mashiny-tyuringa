@@ -7,7 +7,7 @@ const nextConfig = {
     unoptimized: true,
   },
   output: "export",
-  basePath: "/astu",
+  basePath: "/simulyator-mashiny-tyuringa",
 };
 
 export default nextConfig;
